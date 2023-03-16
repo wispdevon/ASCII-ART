@@ -1,0 +1,170 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Magick.NET-Q16-HDRI-x64/13.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Magick.NET.Core": "13.0.0"
+        },
+        "compile": {
+          "lib/netstandard21/Magick.NET-Q16-HDRI-x64.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard21/Magick.NET-Q16-HDRI-x64.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/netstandard20/Magick.NET-Q16-HDRI-x64.targets": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux-musl-x64/native/Magick.Native-Q16-HDRI-x64.dll.so": {
+            "assetType": "native",
+            "rid": "linux-musl-x64"
+          },
+          "runtimes/linux-x64/native/Magick.Native-Q16-HDRI-x64.dll.so": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx-x64/native/Magick.Native-Q16-HDRI-x64.dll.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win-x64/native/Magick.Native-Q16-HDRI-x64.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          }
+        }
+      },
+      "Magick.NET.Core/13.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard21/Magick.NET.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard21/Magick.NET.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Magick.NET-Q16-HDRI-x64/13.0.0": {
+      "sha512": "2GWQENHwI/KSRn3OPhfYxz5+4nXbvwwldVGh/+ZINLWuUxpg9y9wsVryZC8MIFJPzqNm+NJXBa7qcAdKBlpXWg==",
+      "type": "package",
+      "path": "magick.net-q16-hdri-x64/13.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Magick.NET.icon.png",
+        "Notice.linux-musl.txt",
+        "Notice.linux.txt",
+        "Notice.osx.txt",
+        "Notice.win.txt",
+        "build/netstandard20/Magick.NET-Q16-HDRI-x64.targets",
+        "docs/Readme.md",
+        "lib/netstandard20/Magick.NET-Q16-HDRI-x64.dll",
+        "lib/netstandard20/Magick.NET-Q16-HDRI-x64.xml",
+        "lib/netstandard21/Magick.NET-Q16-HDRI-x64.dll",
+        "lib/netstandard21/Magick.NET-Q16-HDRI-x64.xml",
+        "magick.net-q16-hdri-x64.13.0.0.nupkg.sha512",
+        "magick.net-q16-hdri-x64.nuspec",
+        "runtimes/linux-musl-x64/native/Magick.Native-Q16-HDRI-x64.dll.so",
+        "runtimes/linux-x64/native/Magick.Native-Q16-HDRI-x64.dll.so",
+        "runtimes/osx-x64/native/Magick.Native-Q16-HDRI-x64.dll.dylib",
+        "runtimes/win-x64/native/Magick.Native-Q16-HDRI-x64.dll"
+      ]
+    },
+    "Magick.NET.Core/13.0.0": {
+      "sha512": "fP6DLn1VufhLYeRuQtOWrSbXJkXKcECupB3rTaKHG7VSGexTrIo1BL2LYKcCjFjdSv/5xorjTsz7o7JFgSBneQ==",
+      "type": "package",
+      "path": "magick.net.core/13.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Copyright.txt",
+        "Magick.NET.icon.png",
+        "docs/Readme.md",
+        "lib/netstandard20/Magick.NET.Core.dll",
+        "lib/netstandard20/Magick.NET.Core.xml",
+        "lib/netstandard21/Magick.NET.Core.dll",
+        "lib/netstandard21/Magick.NET.Core.xml",
+        "magick.net.core.13.0.0.nupkg.sha512",
+        "magick.net.core.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Magick.NET-Q16-HDRI-x64 >= 13.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\devon\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\devon\\ASCII ART\\ASCII ART.csproj",
+      "projectName": "ASCII ART",
+      "projectPath": "C:\\Users\\devon\\ASCII ART\\ASCII ART.csproj",
+      "packagesPath": "C:\\Users\\devon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\devon\\ASCII ART\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\devon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Magick.NET-Q16-HDRI-x64": {
+            "target": "Package",
+            "version": "[13.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

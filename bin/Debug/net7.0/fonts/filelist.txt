@@ -1,0 +1,14 @@
+./fonts/anon.ttf
+./fonts/anonbold.ttf
+./fonts/anonbolditalic.ttf
+./fonts/anonitalic.ttf
+./fonts/azeret.ttf
+./fonts/azeretbold.ttf
+./fonts/azeretsemibold.ttf
+./fonts/major.ttf
+./fonts/noto.ttf
+./fonts/notoemoji.ttf
+./fonts/nova.ttf
+./fonts/oxygen.ttf
+./fonts/share.ttf
+./fonts/space.ttf

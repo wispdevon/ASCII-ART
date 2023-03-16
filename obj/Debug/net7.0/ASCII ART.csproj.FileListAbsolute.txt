@@ -1,0 +1,22 @@
+C:\Users\devon\ASCII ART\bin\Debug\net7.0\ASCII ART.exe
+C:\Users\devon\ASCII ART\bin\Debug\net7.0\ASCII ART.deps.json
+C:\Users\devon\ASCII ART\bin\Debug\net7.0\ASCII ART.runtimeconfig.json
+C:\Users\devon\ASCII ART\bin\Debug\net7.0\ASCII ART.dll
+C:\Users\devon\ASCII ART\bin\Debug\net7.0\ASCII ART.pdb
+C:\Users\devon\ASCII ART\bin\Debug\net7.0\Magick.NET-Q16-HDRI-x64.dll
+C:\Users\devon\ASCII ART\bin\Debug\net7.0\Magick.NET.Core.dll
+C:\Users\devon\ASCII ART\bin\Debug\net7.0\runtimes\linux-musl-x64\native\Magick.Native-Q16-HDRI-x64.dll.so
+C:\Users\devon\ASCII ART\bin\Debug\net7.0\runtimes\linux-x64\native\Magick.Native-Q16-HDRI-x64.dll.so
+C:\Users\devon\ASCII ART\bin\Debug\net7.0\runtimes\osx-x64\native\Magick.Native-Q16-HDRI-x64.dll.dylib
+C:\Users\devon\ASCII ART\bin\Debug\net7.0\runtimes\win-x64\native\Magick.Native-Q16-HDRI-x64.dll
+C:\Users\devon\ASCII ART\obj\Debug\net7.0\ASCII ART.csproj.AssemblyReference.cache
+C:\Users\devon\ASCII ART\obj\Debug\net7.0\ASCII ART.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devon\ASCII ART\obj\Debug\net7.0\ASCII ART.AssemblyInfoInputs.cache
+C:\Users\devon\ASCII ART\obj\Debug\net7.0\ASCII ART.AssemblyInfo.cs
+C:\Users\devon\ASCII ART\obj\Debug\net7.0\ASCII ART.csproj.CoreCompileInputs.cache
+C:\Users\devon\ASCII ART\obj\Debug\net7.0\ASCII ART.csproj.CopyComplete
+C:\Users\devon\ASCII ART\obj\Debug\net7.0\ASCII ART.dll
+C:\Users\devon\ASCII ART\obj\Debug\net7.0\refint\ASCII ART.dll
+C:\Users\devon\ASCII ART\obj\Debug\net7.0\ASCII ART.pdb
+C:\Users\devon\ASCII ART\obj\Debug\net7.0\ASCII ART.genruntimeconfig.cache
+C:\Users\devon\ASCII ART\obj\Debug\net7.0\ref\ASCII ART.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LOZoYSgTlPYWv+CeM44uvXkGfMcVA03+8t7Log9nYhOV9EpRaSMmeD6cKIitWq0BPB1eoL/bvYwT3cE2yoTDew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devon\\ASCII ART\\ASCII ART.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devon\\.nuget\\packages\\magick.net-q16-hdri-x64\\13.0.0\\magick.net-q16-hdri-x64.13.0.0.nupkg.sha512",
+    "C:\\Users\\devon\\.nuget\\packages\\magick.net.core\\13.0.0\\magick.net.core.13.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
